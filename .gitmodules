@@ -1,0 +1,3 @@
+[submodule "BTOP_submodule1"]
+	path = BTOP_submodule1
+	url = https://github.com/negibozu1230/BTOP_submodule1
